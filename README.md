@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: jainymartins](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainy-estefany-martins-173443b2//)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub JainyMartins](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub JainyMartins](https://img.shields.io/github/followers/JainyMartins?label=JainyMartins&style=social)](https://github.com/JainyMartins)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
