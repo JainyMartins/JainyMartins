@@ -3,24 +3,18 @@
 <p><em>Science Computer Student <img src="https://media4.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif?cid=ecf05e47idrdpvu7678q1dv629ahuftum5obl2u4i3lqdf3b&rid=giphy.gif&ct=s" width="30">
 </em></p>
 
-[![Linkedin: jainymartins](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainy-estefany-martins-173443b2//)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: jainymartins](https://img.shields.io/badge/-JainyMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainy-estefany-martins-173443b2//)](https://www.linkedin.com/in/jainy-estefany-martins-173443b2/)
 [![GitHub JainyMartins](https://img.shields.io/github/followers/JainyMartins?label=JainyMartins&style=social)](https://github.com/JainyMartins)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const jainy = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Java, HTML, CSS],
+  hobbies: [Games, Books, Travel, TV Series/Movies, Play with my Dogs, Learn],
+  learning: [Javascript, Git, Github],
 }
 ```
 
