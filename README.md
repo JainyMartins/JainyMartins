@@ -14,7 +14,7 @@ const jainy = {
   pronouns: "she" | "her",
   code: [Java, HTML, CSS],
   hobbies: [Games, Books, Travel, TV Series/Movies, Play with my Dogs, Learn],
-  learning: [Javascript, Git, Github],
+  learning: [Java, ApiREST, Unitary Tests, Javascript, Git, Github],
 }
 ```
 
