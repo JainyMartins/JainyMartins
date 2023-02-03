@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jainy Martins! <img src="https://media3.giphy.com/media/dF4HuP4wuV54dUAJgY/giphy.gif?cid=ecf05e47xw96wbbvn66s3cxlivmv6q1jakekqu3zu8f7fdzc&rid=giphy.gif&ct=s" width="50"></h2> 
 <img align='right' src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47zobepng9ym6iae4n1yam0skhy5igji9sn7kfa3me&rid=giphy.gif&ct=s" width="230">
-<p><em>Software Developer<img src="https://media4.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif?cid=ecf05e47idrdpvu7678q1dv629ahuftum5obl2u4i3lqdf3b&rid=giphy.gif&ct=s" width="30">
+<p><em>Software Developer <img src="https://media4.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif?cid=ecf05e47idrdpvu7678q1dv629ahuftum5obl2u4i3lqdf3b&rid=giphy.gif&ct=s" width="30">
 </em></p>
 
 [![Linkedin: jainymartins](https://img.shields.io/badge/-JainyMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainy-estefany-martins-173443b2//)](https://www.linkedin.com/in/jainy-estefany-martins-173443b2/)
