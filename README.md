@@ -12,7 +12,7 @@
 ```javascript
 const jainy = {
   pronouns: "she" | "her",
-  skills: [Java, Spring Boot, Unitary Tests, ApiREST, HTML, CSS, Javascript, Git],
+  skills: [Java, Spring Boot, CRUD, Angular, Vue, ApiREST, Unitary Tests, HTML, CSS, Javascript, Git],
   hobbies: [Games, Books, Travel, TV Series/Movies, Play with my Dogs, Learn],
 }
 ```
